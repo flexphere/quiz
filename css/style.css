@@ -2,6 +2,9 @@
 /**
  * Basic Settings
  */
+ html {
+	background: #efefef;
+ }
 body {
   font-family: "Noto Sans Japanese", "meiryo", "serif";
   font-weight: 100;
@@ -10,11 +13,60 @@ body {
 h1, h2, h3, h4, h5 {
   font-weight: 100;
 }
+ul {
+	padding: 0;
+}
+
+header {
+	margin:  0 0 40px;
+	padding: 40px 0;
+}
+
+
+.modal-nick {
+  display:block;
+}
+
+.progress {
+	height: 10px;
+}
+.btn {
+	border-radius: 0;
+}
+button {
+	margin-top: 10px;
+}
 
 /**
  * Font awesome-icons
  */
+.animocon_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.animocon {
+  color: #eb9316;
+  font-size: 5em;
+  position: relative;
+  margin: 0;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+  background: none;
+  overflow: visible;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.animocon .fa {
+  display: inline-block;
+  padding: 0 0.1em;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
+}
 .lesson_complete .fa-stack .bg {
   color: #5cb85c;
 }
@@ -66,18 +118,21 @@ h1, h2, h3, h4, h5 {
 .bg-white {
   background: #fff;
 }
-.pad_box {
-  margin: 40px 0;
-  padding: 0 40px;
+.border-r1 {
+  border-right: solid 1px #ccc;
+}
+.padding-10 {
+	padding: 10px;
+}
+.padding-20 {
+	padding: 20px;
 }
 
 
 /**
  * Index Header
  */
-.header {
-  border-right: solid 1px #ccc;
-}
+
 .content_lead {
   font-size: 18px;
 }
@@ -95,7 +150,9 @@ h1, h2, h3, h4, h5 {
   background: #fff;
   padding: 40px;
   border-bottom: solid 1px #ccc;
-  cursor: pointer;
+}
+.lesson_active {
+	cursor: pointer;
 }
 .lesson_list li:last-child {
   border-bottom: none;
@@ -114,6 +171,48 @@ h1, h2, h3, h4, h5 {
   0% { background-position: 0 30px; }
   100% { background-position: 0 13px; }
 }
+
+
+
+
+.progress-text {
+	text-align: right;
+	font-size: 16px;
+	font-weight: 300;
+}
+.progress-text .current {
+	font-size: 20px;
+}
+
+/*
+ * Question Area
+ */
+.question_heading {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+.question_text {
+	margin-bottom: 40px;
+	padding: 20px;
+  background: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+.question_option {
+	margin-bottom: 10px;
+	padding: 20px;
+	border: solid 1px transparent;
+	background: #fff;
+	font-size: 20px;
+	cursor: pointer;
+}
+.question_option:hover {
+	border: solid 1px rgb(92,184,92);
+	transition: box-shadow 0.2s;
+	transform: translateZ(1px);
+	box-shadow: 0px 0px 3px 3px rgba(92,184,92,0.2);
+}
+
 
 /** キラキラ**/
 @keyframes light {

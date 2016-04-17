@@ -1,0 +1,9 @@
+[16-Apr-2016 17:58:12 Asia/Tokyo] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php:29
+Stack trace:
+#0 /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php(29): SQLite3->open('/var/home/tanak...')
+#1 /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php(54): DB->__construct()
+#2 {main}
+  thrown in /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php on line 29
+[16-Apr-2016 17:59:05 Asia/Tokyo] PHP Warning:  SQLite3::exec() [<a href='sqlite3.exec'>sqlite3.exec</a>]: no such table: question in /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php on line 47
+[16-Apr-2016 17:59:05 Asia/Tokyo] PHP Notice:  Undefined property: DB::$sqlite_error_string in /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php on line 49
+[16-Apr-2016 17:59:05 Asia/Tokyo] PHP Notice:  Undefined property: DB::$lastErrorCode in /var/home/tanaka/public_ssl/student/eng_fill/admin/q_update.php on line 49
