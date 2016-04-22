@@ -1,0 +1,124 @@
+food1,food1_01.png,apple,りんご
+food1,food1_02.png,banana,バナナ
+food1,food1_03.png,blueberry,ブルーベリー
+food1,food1_04.png,cherry,さくらんぼ
+food1,food1_05.png,grape,ぶどう
+food1,food1_06.png,kiwi,キウイ
+food1,food1_07.png,lemon,レモン
+food1,food1_08.png,lime,ライム
+food1,food1_09.png,mango,マンゴー
+food1,food1_10.png,melon,メロン
+food1,food1_11.png,muscat,マスカット
+food1,food1_12.png,orange,オレンジ
+food1,food1_13.png,papaya,パパイヤ
+food1,food1_14.png,peach,もも
+food1,food1_15.png,pear,<ruby>西洋<rt>せいよう</rt>なし</ruby>
+food1,food1_16.png,pineapple,パイナップル
+food1,food1_17.png,strawberry,いちご
+food1,food1_18.png,watermelon,すいか
+food1,food1_19.png,bamboo shoot,たけのこ
+food1,food1_20.png,broccoli,ブロッコリー
+food1,food1_21.png,cabbage,キャベツ
+food1,food1_22.png,carrot,にんじん
+food1,food1_23.png,corn,とうもろこし
+food1,food1_24.png,cucumber,きゅうり
+food1,food1_25.png,eggplant,なず
+food1,food1_26.png,green pepper,ピーマン
+food1,food1_27.png,lettuce,レタス
+food1,food1_28.png,onion,たまねぎ
+food2,food2_01.png,parsley,パセリ
+food2,food2_02.png,pea,えんどう<ruby>豆<rt>まめ<rt></ruby>
+food2,food2_03.png,potato,じゃがいも
+food2,food2_04.png,pumpkin,かぼちゃ
+food2,food2_05.png,radish,はつかだいこん
+food2,food2_06.png,sweet potato,さつまいも
+food2,food2_07.png,tomato,トマト
+food2,food2_08.png,French fries,フライドポテト
+food2,food2_09.png,hamburger,ハンバーガー
+food2,food2_10.png,pizza,ピザ
+food2,food2_11.png,cheeze,チーズ
+food2,food2_12.png,yogurt,ヨーグルト
+food2,food2_13.png,egg,<ruby>卵<rt>たまご</rt></ruby>
+food2,food2_14.png,rice ball,おにぎり
+food2,food2_15.png,rice cake,<ruby>餅<rt>もち</rt></ruby>
+food2,food2_16.png,sandwich,サンドイッチ
+food2,food2_17.png,salad,サラダ
+food2,food2_18.png,curry and　rice,カレーライス
+food2,food2_19.png,noodles,<ruby>麺類<rt>めんるい</rt></ruby>
+food2,food2_20.png,omelette/omelet,オムレツ
+food2,food2_21.png,stew,シチュー
+food2,food2_22.png,cake,ケーキ
+food2,food2_23.png,pudding,プリン
+food2,food2_24.png,doughnut/donut,ドーナツ
+food2,food2_25.png,ice cream,アイスクリーム
+food2,food2_26.png,jelly,ゼリー
+food2,food2_27.png,coffee,コーヒー
+food2,food2_28.png,cola,コーラ
+kitchen1,kitchen1_01.png,refrigerator,<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>
+kitchen1,kitchen1_02.png,coffee maker,コーヒーメーカー
+kitchen1,kitchen1_03.png,toaster,トースター
+kitchen1,kitchen1_04.png,pot,なべ
+kitchen1,kitchen1_05.png,microwave,<ruby>電子<rt>でんし</rt></ruby>レンジ
+kitchen1,kitchen1_06.png,scale,はかり
+kitchen1,kitchen1_07.png,sink,ながし
+kitchen1,kitchen1_08.png,pan,フライパン
+kitchen1,kitchen1_09.png,rice cooker,<ruby>炊飯器<rt>すいはんき</rt></ruby>
+kitchen1,kitchen1_10.png,duster,<ruby>布巾<rt>ふきん</rt></ruby>
+kitchen1,kitchen1_11.png,kettle,やかん
+kitchen1,kitchen1_12.png,apron,エプロン
+kitchen1,kitchen1_13.png,blender,ミキサー
+kitchen1,kitchen1_14.png,fork,フォーク
+kitchen1,kitchen1_15.png,chopsticks,はし
+kitchen1,kitchen1_16.png,kitchen knife,<ruby>包丁<rt>ほうちょう</rt></ruby>
+kitchen1,kitchen1_17.png,knife,ナイフ
+kitchen1,kitchen1_18.png,bowl,ちゃわん
+kitchen1,kitchen1_19.png,dishwasher,<ruby>食器洗<rt>しょっきあら</rt></ruby>い<ruby>機<rt>き</rt></ruby>
+kitchen1,kitchen1_20.png,chopping board,また<ruby>板<rt>いた</rt></ruby>
+kitchen1,kitchen1_21.png,cupboard,とだな
+kitchen1,kitchen1_22.png,plate,さら
+kitchen1,kitchen1_23.png,spoon,スプーン
+kitchen1,kitchen1_24.png,beater,<ruby>泡<rt>あわ</rt></ruby>だて<ruby>器<rt>き</rt></ruby>
+kitchen2,kitchen2_01.png,glass,コップ
+kitchen2,kitchen2_02.png,lunchbox,<ruby>弁当箱<rt>ばんとうばこ</rt></ruby>
+kitchen2,kitchen2_03.png,cup,カップ
+kitchen2,kitchen2_04.png,beer,ビール
+kitchen2,kitchen2_05.png,bottle,ビン
+kitchen2,kitchen2_06.png,whiskey,ウィスキー
+kitchen2,kitchen2_07.png,coffee mill,コーヒーミル
+kitchen2,kitchen2_08.png,soda,<ruby>炭酸水<rt>たんさんすい</rt></ruby>
+kitchen2,kitchen2_09.png,water bottle,<ruby>水筒<rt>すいとう</rt></ruby>
+kitchen2,kitchen2_10.png,wine,ワイン
+kitchen2,kitchen2_11.png,ketchup,ケチャップ
+kitchen2,kitchen2_12.png,mayonnaise,マヨネーズ
+kitchen2,kitchen2_13.png,teapot,きゅうす
+kitchen2,kitchen2_14.png,soy sauce,しょうゆ
+kitchen2,kitchen2_15.png,oil,<ruby>油<rt>あぶら</rt></ruby>
+kitchen2,kitchen2_16.png,coffee,コーヒー
+kitchen2,kitchen2_17.png,sugar,<ruby>砂糖<rt>さとう</rt></ruby>
+kitchen2,kitchen2_18.png,sesame oil,ごま<ruby>油<rt>あぶら</rt></ruby>
+kitchen2,kitchen2_19.png,tea bag,ティーバッグ
+kitchen2,kitchen2_20.png,tea,<ruby>紅茶<rt>こうちゃ</rt></ruby>
+kitchen2,kitchen2_21.png,water,<ruby>水<rt>みず</rt></ruby>
+kitchen2,kitchen2_22.png,vinegar,<ruby>酢<rt>す</rt></ruby>
+kitchen2,kitchen2_23.png,salt,<ruby>塩<rt>しお</rt></ruby>
+kitchen2,kitchen2_24.png,orange juice,オレンジジュース
+emotion,emotion_01.png,sad,<ruby>悲<rt>かな</rt></ruby>しい
+emotion,emotion_02.png,glad,<ruby>嬉<rt>うれ</rt></ruby>しい
+emotion,emotion_03.png,delighted,<ruby>大喜<rt>おおよろこ</rt></ruby>びした
+emotion,emotion_04.png,happy,<ruby>楽<rt>たの</rt></ruby>しい
+emotion,emotion_05.png,fine,<ruby>元気<rt>げんき</rt></ruby>な
+emotion,emotion_06.png,bored,<ruby>退屈<rt>たいくつ</rt></ruby>な
+emotion,emotion_07.png,relieved,<ruby>安心<rt>あんしん</rt></ruby>している
+emotion,emotion_08.png,angry,<ruby>怒<rt>おこ</rt></ruby>っている
+emotion,emotion_09.png,calm,<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた
+emotion,emotion_10.png,irritated,イライラして
+emotion,emotion_11.png,excited,<ruby>興奮<rt>こうふん</rt></ruby>して
+emotion,emotion_12.png,depressed,<ruby>元気<rt>げんき</rt></ruby>のない
+emotion,emotion_13.png,tired,<ruby>疲<rt>つか</rt></ruby>れた
+emotion,emotion_14.png,frightened,ぎょっとした
+emotion,emotion_15.png,scared,おびえた
+emotion,emotion_16.png,nervous,<ruby>緊張<rt>きんちょう</rt></ruby>している
+emotion,emotion_17.png,worried,<ruby>心配<rt>しんぱい</rt></ruby>な
+emotion,emotion_18.png,embarrassed,<ruby>恥<rt>は</rt></ruby>ずかしい
+emotion,emotion_19.png,mad,かんかんに<ruby>怒<rt>おこ</rt></ruby>っている
+emotion,emotion_20.png,hurt,<ruby>傷<rt>きず</rt></ruby>ついた
